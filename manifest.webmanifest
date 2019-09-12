@@ -1,8 +1,8 @@
 {
-  "name": "bayer-xperts-landing-page",
+  "name": "bayer-xperts",
   "short_name": "bayer-xperts-landing-page",
   "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "background_color": "#047e47",
   "display": "standalone",
   "scope": "/",
   "start_url": "/bayer-xperts-landing-page/",
