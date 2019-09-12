@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568301374825,
+  "timestamp": 1568302410004,
   "index": "/bayer-xperts-landing-page/index.html",
   "assetGroups": [
     {
@@ -99,7 +99,7 @@
     "/bayer-xperts-landing-page/logo_xperts.6d1cd802863ef0f3033c.svg": "f7403feb0ea1ca81a8779c4badf527cdf754e72b",
     "/bayer-xperts-landing-page/main-es2015.ad89c56c6ba363f844b1.js": "744557fdd58df19a3935ca9d7a8f85db7a09c4e4",
     "/bayer-xperts-landing-page/main-es5.73d78152cdfc5dcf51e4.js": "68e7c478057a4f6cb13c5a3f54bf883de4bba3eb",
-    "/bayer-xperts-landing-page/manifest.webmanifest": "a35d5e1c4ee7566d5f24e23f8debde53f7e9be32",
+    "/bayer-xperts-landing-page/manifest.webmanifest": "6c93ed046b4b5c6c28f390d3ffe37a97763f3a89",
     "/bayer-xperts-landing-page/participar-bg.ac22961852ca7ff5cda5.png": "246d3a7c31b983189a490e7d42e7f14b47f683e7",
     "/bayer-xperts-landing-page/polyfills-es2015.a8cf2d3dc3edef6712e4.js": "08c97940ba93ccc4121b85df6911d86011ef3fb8",
     "/bayer-xperts-landing-page/polyfills-es5.1d50a8aa379923cd7296.js": "9d9b583788005b7e2dc51d2b965f7c09b9180c60",

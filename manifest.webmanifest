@@ -5,7 +5,7 @@
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/bayer-xperts-landing-page",
+  "start_url": "/bayer-xperts-landing-page/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
