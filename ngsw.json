@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568344200183,
+  "timestamp": 1568400602852,
   "index": "/bayer-xperts-landing-page/index.html",
   "assetGroups": [
     {
@@ -10,14 +10,14 @@
       "urls": [
         "/bayer-xperts-landing-page/favicon.ico",
         "/bayer-xperts-landing-page/index.html",
-        "/bayer-xperts-landing-page/main-es2015.93a961af8a4e11c6f90c.js",
-        "/bayer-xperts-landing-page/main-es5.f71dea9eab9160cae359.js",
+        "/bayer-xperts-landing-page/main-es2015.919914920d3fd5126da5.js",
+        "/bayer-xperts-landing-page/main-es5.932a0dc212160e1e2529.js",
         "/bayer-xperts-landing-page/manifest.webmanifest",
         "/bayer-xperts-landing-page/polyfills-es2015.a8cf2d3dc3edef6712e4.js",
         "/bayer-xperts-landing-page/polyfills-es5.1d50a8aa379923cd7296.js",
         "/bayer-xperts-landing-page/runtime-es2015.d61f42a1e4be5689ac82.js",
         "/bayer-xperts-landing-page/runtime-es5.0c5226cce70e491b47d0.js",
-        "/bayer-xperts-landing-page/styles.68b807d77e9d3bae6ebe.css"
+        "/bayer-xperts-landing-page/styles.411ab2390ce73479fba6.css"
       ],
       "patterns": []
     },
@@ -28,6 +28,11 @@
       "urls": [
         "/bayer-xperts-landing-page/Xperts_BG.88b8bc29c0bbf099b558.svg",
         "/bayer-xperts-landing-page/agenda-bg.5f19d0513c16770d7152.png",
+        "/bayer-xperts-landing-page/assets/icomoon/fonts/icomoon.eot",
+        "/bayer-xperts-landing-page/assets/icomoon/fonts/icomoon.svg",
+        "/bayer-xperts-landing-page/assets/icomoon/fonts/icomoon.ttf",
+        "/bayer-xperts-landing-page/assets/icomoon/fonts/icomoon.woff",
+        "/bayer-xperts-landing-page/assets/icomoon/style.css",
         "/bayer-xperts-landing-page/assets/icons/icon-128x128.png",
         "/bayer-xperts-landing-page/assets/icons/icon-144x144.png",
         "/bayer-xperts-landing-page/assets/icons/icon-152x152.png",
@@ -64,6 +69,10 @@
         "/bayer-xperts-landing-page/banner-bg.0335774c8e7f9f199b3e.png",
         "/bayer-xperts-landing-page/bg1.563098fadd2d2205f4fc.svg",
         "/bayer-xperts-landing-page/bg_ranking.c51a09c34e799a7d6d21.svg",
+        "/bayer-xperts-landing-page/icomoon.3189baeb0d2035389b82.eot",
+        "/bayer-xperts-landing-page/icomoon.73067f63f7371471afbe.ttf",
+        "/bayer-xperts-landing-page/icomoon.7aa693447a4c203d0b05.svg",
+        "/bayer-xperts-landing-page/icomoon.887ca959e459d2e37e9f.woff",
         "/bayer-xperts-landing-page/pontuacao-box.b4f679359e10d73ffcba.png"
       ],
       "patterns": []
@@ -73,14 +82,19 @@
   "hashTable": {
     "/bayer-xperts-landing-page/Xperts_BG.88b8bc29c0bbf099b558.svg": "acf471c69803144b922123c9490177864d611591",
     "/bayer-xperts-landing-page/agenda-bg.5f19d0513c16770d7152.png": "c08f9b077ec1e5e66cde16f9e67624a54edbe37e",
+    "/bayer-xperts-landing-page/assets/icomoon/fonts/icomoon.eot": "9cc3b94b069554d90823ef5a6ea2d705563dd8af",
+    "/bayer-xperts-landing-page/assets/icomoon/fonts/icomoon.svg": "6acfa316606c77ff2a55c681a8beffd9a2e09c1a",
+    "/bayer-xperts-landing-page/assets/icomoon/fonts/icomoon.ttf": "ce385c46642cf82998d794d6230175b565000a07",
+    "/bayer-xperts-landing-page/assets/icomoon/fonts/icomoon.woff": "42b02c3c272a9775a44da62772c78771b772e735",
+    "/bayer-xperts-landing-page/assets/icomoon/style.css": "1e238d96455c3795fda019c83a46f9a13b0c28d9",
     "/bayer-xperts-landing-page/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/bayer-xperts-landing-page/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/bayer-xperts-landing-page/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/bayer-xperts-landing-page/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/bayer-xperts-landing-page/assets/icons/icon-144x144.png": "2d1e15be7ffa1f86ff082eb788d4e443762cfaf4",
+    "/bayer-xperts-landing-page/assets/icons/icon-152x152.png": "617112e746dfa84aadefaac632cd44f4d45bc618",
+    "/bayer-xperts-landing-page/assets/icons/icon-192x192.png": "27490b9d259005f751a20863ea3396534be031f4",
     "/bayer-xperts-landing-page/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
     "/bayer-xperts-landing-page/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/bayer-xperts-landing-page/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/bayer-xperts-landing-page/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/bayer-xperts-landing-page/assets/icons/icon-72x72.png": "2e75ab02cf8a01489b6fda41a23d21ae704b88f0",
+    "/bayer-xperts-landing-page/assets/icons/icon-96x96.png": "4708640642a05b8585e504c592c8f5f764af2d8d",
     "/bayer-xperts-landing-page/assets/images/X_logo_G.png": "df2155582c317f88d2ad95d176467e58506ab2b5",
     "/bayer-xperts-landing-page/assets/images/X_logo_G.svg": "8f70462802e79cce471f1eecf51ad0755f33ec83",
     "/bayer-xperts-landing-page/assets/images/X_logo_G2.svg": "32167c3786119cf5856ef5c0bdc3965a21bbc003",
@@ -110,16 +124,20 @@
     "/bayer-xperts-landing-page/bg1.563098fadd2d2205f4fc.svg": "12f53de5b4d78627b1755b622cfbbf267d20a9f6",
     "/bayer-xperts-landing-page/bg_ranking.c51a09c34e799a7d6d21.svg": "f3cb8e998e3ae16fa32390054ff2643c49c9d6b1",
     "/bayer-xperts-landing-page/favicon.ico": "36f666a45702dcd9e56debbda782be6cfd1af233",
-    "/bayer-xperts-landing-page/index.html": "b75bf817ee8b772b1853d7c4ba17ae7dac14830f",
-    "/bayer-xperts-landing-page/main-es2015.93a961af8a4e11c6f90c.js": "35f604596c805a68a49a1fb0c0fc72a63fa40b7c",
-    "/bayer-xperts-landing-page/main-es5.f71dea9eab9160cae359.js": "b72e10966bffb5387b96a33be1f3dfea4a4eca5a",
-    "/bayer-xperts-landing-page/manifest.webmanifest": "446364f53078501405e06b3c4aabcf25c63e2bfe",
+    "/bayer-xperts-landing-page/icomoon.3189baeb0d2035389b82.eot": "9cc3b94b069554d90823ef5a6ea2d705563dd8af",
+    "/bayer-xperts-landing-page/icomoon.73067f63f7371471afbe.ttf": "ce385c46642cf82998d794d6230175b565000a07",
+    "/bayer-xperts-landing-page/icomoon.7aa693447a4c203d0b05.svg": "6acfa316606c77ff2a55c681a8beffd9a2e09c1a",
+    "/bayer-xperts-landing-page/icomoon.887ca959e459d2e37e9f.woff": "42b02c3c272a9775a44da62772c78771b772e735",
+    "/bayer-xperts-landing-page/index.html": "04679eb0aa35adc59eb8bfc0094ab6c2057433d7",
+    "/bayer-xperts-landing-page/main-es2015.919914920d3fd5126da5.js": "6846967b1912bcea87f673edf15752c5571942bc",
+    "/bayer-xperts-landing-page/main-es5.932a0dc212160e1e2529.js": "16d4b1ccdd9487ddd6a6da00fb9805fda2ee2234",
+    "/bayer-xperts-landing-page/manifest.webmanifest": "51b51504e0bfbe66defeb32c8c309fe883b208d0",
     "/bayer-xperts-landing-page/polyfills-es2015.a8cf2d3dc3edef6712e4.js": "08c97940ba93ccc4121b85df6911d86011ef3fb8",
     "/bayer-xperts-landing-page/polyfills-es5.1d50a8aa379923cd7296.js": "9d9b583788005b7e2dc51d2b965f7c09b9180c60",
     "/bayer-xperts-landing-page/pontuacao-box.b4f679359e10d73ffcba.png": "a4578f05a1df3da9ecbec1463cceea7ba64e6794",
     "/bayer-xperts-landing-page/runtime-es2015.d61f42a1e4be5689ac82.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/bayer-xperts-landing-page/runtime-es5.0c5226cce70e491b47d0.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/bayer-xperts-landing-page/styles.68b807d77e9d3bae6ebe.css": "3b1724981eab88861d49ca7d781953daa41d3d6e"
+    "/bayer-xperts-landing-page/styles.411ab2390ce73479fba6.css": "5e6f4c62c9cf431a034d78152261dbc31a50a0a8"
   },
   "navigationUrls": [
     {
